@@ -5,7 +5,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellFire0x&layout=compact" alt="HellFire0x" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HellFire0x&show_icons=true" alt="HellFire0x" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=HellFire0x&repo=Roblox-Game-Info-Gather" alt="HellFire0x" /></p>
 
 <!--
 **HellFire0x/HellFire0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
